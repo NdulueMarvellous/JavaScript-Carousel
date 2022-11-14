@@ -4,4 +4,4 @@ Built of HTML,CSS and JavaScript.
 
 The hosted Github pages:
 
-http://www.js-slideshow.com/
+https://nduluemarvellous.github.io/slideshow.github.io/
